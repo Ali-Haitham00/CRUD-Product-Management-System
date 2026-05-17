@@ -7,7 +7,7 @@ This project is part of my learning journey in JavaScript.
 It focuses on building a full CRUD system to manage products with dynamic calculations.
 
 ## 🚀 Live Demo
-👉 [View Live Demo](PUT-YOUR-LIVE-DEMO-LINK-HERE)
+👉 [View Live Demo](https://ali-haitham00.github.io/CRUD-Product-Management-System/)
 
 ## 🚀 Features
 - Add new products
